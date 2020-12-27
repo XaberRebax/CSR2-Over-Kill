@@ -1,6 +1,7 @@
 # csr2
 CSR2 Racing
-WARNING
+
+BAN WARNING
 
 Never go Live with an EF car
 
