@@ -1,3 +1,5 @@
+    {
+      "unid": 0,
       "crdb": "Lamborghini_LBSilhouetteHuracanRewardRecycled_2014",
       "awar": false,
       "grsp": [
@@ -654,3 +656,6 @@
       "whbn": "Wheel1B_3D",
       "tlad": 0.0,
       "need": false,
+      "cmlv": 0,
+      "isra": false
+    }
