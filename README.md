@@ -1,5 +1,5 @@
 # csr2
-CSR2 Racing - New Guthub and user still working on repo.
+CSR2 Racing - New Github and user still working on repo.
 
 BAN WARNING
 
