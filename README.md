@@ -1,8 +1,6 @@
-# csr2
+# CSR2 EF Cars
 CSR2 Extra Fusion Cars
 
 BAN WARNING
 
-Never go Live with an EF car
-
-Always sell EF cars before SD end
+Only Elite Customs Cars can work with EF and they can only be used in Showdowns.
