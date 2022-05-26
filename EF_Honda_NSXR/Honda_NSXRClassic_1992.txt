@@ -639,7 +639,7 @@
       "ctie": "TIER_4",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "OVERKIL",
+        "txt": "",
         "cpf": true
       },
       "esup": false,
